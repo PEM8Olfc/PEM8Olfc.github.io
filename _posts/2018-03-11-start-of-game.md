@@ -1,5 +1,5 @@
 ---
-title: start of game
+title: more on game
 layout: post
 author: oliver.pemberton
 permalink: /start-of-game/
