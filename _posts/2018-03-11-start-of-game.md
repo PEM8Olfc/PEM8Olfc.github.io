@@ -1,15 +1,15 @@
 ---
-title: more on game
+title: start of game
 layout: post
 author: oliver.pemberton
 permalink: /start-of-game/
-source-id: 1Ngvnuk_BW51M0ulabxPfTSbHBIooybEvVCoJNThlqRk
+source-id: 1H23eIwoYbVQjkdwx2P9R5YPiZwWdEh7f-gmdu9q52jE
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>scratch
+    <td>Start of scratch game
 </td>
     <td></td>
     <td></td>
@@ -20,11 +20,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>A bit of game done</td>
+    <td>My plan</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To improve my game</td>
+    <td>To start game</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -40,15 +40,15 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Kept trying things to make it work</td>
+    <td>Kept trying things to it good</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>Asked how to do some codes</td>
+    <td>Asked for help</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>Tried to do some things without asking for help</td>
+    <td>Tried to do some things by myself</td>
   </tr>
   <tr>
     <td>Reflecting</td>
@@ -56,14 +56,14 @@ published: true
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>Stayed focused on the game and not chatting</td>
+    <td>Stayed focused on the game </td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>I could have done more in the lesson
+    <td>I could have done more 
 </td>
     <td></td>
   </tr>
@@ -72,7 +72,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Do more at home if am behind and come at wednesday lunch</td>
+    <td>Do more at home if am behind </td>
     <td></td>
   </tr>
 </table>
