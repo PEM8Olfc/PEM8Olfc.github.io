@@ -12,15 +12,20 @@
 /**************/
 /* BASE RULES */
 /**************/
-
+table {
+border-collapse;
+}
+table, th, td {
+border: 1px solid black;
+}
 html {
   font-size: 100%;
 }
 
 body {
-	background: $white;
+	background: $https://i.imgur.com/GWUyCqu.gif;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $blue;
 }
 
 .container {
